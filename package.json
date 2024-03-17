@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-web-push-notification-integration",
+  "version": "1.0.0",
+  "description": "One Dionys (Web Push Notification Integration) - Integration with web push notification services to send notifications to users, even when the app is inactive.",
+  "main": "src/webPushNotification.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-web-push-notification-integration.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "web-push-notification-integration"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-web-push-notification-integration/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-web-push-notification-integration#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
