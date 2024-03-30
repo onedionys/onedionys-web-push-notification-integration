@@ -1,6 +1,6 @@
 {
   "name": "onedionys-web-push-notification-integration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Web Push Notification Integration) - Integration with web push notification services to send notifications to users, even when the app is inactive.",
   "main": "src/webPushNotification.js",
   "directories": {
